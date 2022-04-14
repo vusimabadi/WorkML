@@ -1,0 +1,6 @@
+﻿Version,Scenario,ComputationTime,SolutionCost,Feasible,NotServedCost,Vehicles#,Legs#,Distance,DrivingTime,Iterations,StartingTemperature,RestartPhasesPercentage,DistanceIts%,NoisyIterations,ReturnToBestAfterXNonImprovingIterations,StayAtBestForXIterations,MaxNeighbourhoodSize,MulticoreProcessingEnabled,SolvingFinished,IterationsBroken,IterationsWithException,RequestsRemovedWhileInserting,SwapsToCheaperTried,SwapsToCheaperApplied,SwapsToCheaperSavedCost
+0.0.0.0,2022/04/08 Friday,6497.42,85218.45,TRUE,202,147,147,41881.34,78674.26667,39000,VeryHigh,0,0,0,1250,0,0,TRUE,2022-04-07T14:28:08,0,0,12,138943780,9775,487954.17
+0.0.0.0,2022/04/08 Friday,6785.65,84778.49,TRUE,202,146,146,41218.26,78478.86667,39000,VeryHigh,0,0,0,1250,0,0,TRUE,2022-04-07T16:22:09,0,0,11,148367855,12234,662165.27
+0.0.0.0,2022/04/08 Friday,6525.49,85208.02,TRUE,202,144,144,42091.35,78301.23333,39000,VeryHigh,0,0,0,1250,0,0,TRUE,2022-04-07T18:11:48,0,0,13,147419434,11121,598274.13
+0.0.0.0,2022/04/08 Friday,6266,84937.12,TRUE,202,144,144,41847.26,78672.31667,39000,VeryHigh,0,0,0,1250,0,0,TRUE,2022-04-07T19:57:06,0,0,4,139910628,10533,563568.27
+0.0.0.0,2022/04/08 Friday,6323.53,85271.7,TRUE,202,147,147,42085.75,78858.2,39000,VeryHigh,0,0,0,1250,0,0,TRUE,2022-04-07T21:43:22,0,0,12,138285881,11232,589825.66
